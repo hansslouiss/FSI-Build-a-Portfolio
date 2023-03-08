@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    background-color: greenyellow;
+    border-style: solid;
+  }
+  h1,h2 {
+    text-align: center;
+  }
+  
+  p { font-size: 24px;
+  }
+  ul { font-size: 24px;
+      font-style: normal;
+     }
+  hr { color: black}
+  h3 { font-size: 24px;
+     }
+  image {border-image: fill;
+        }
